@@ -44,4 +44,4 @@ def read_json(glue_context, path):
 if __name__ == '__main__':
     print("hello")
     GluePythonSampleTest().run()
-    print("hello after2")
+    print("hello after3")
